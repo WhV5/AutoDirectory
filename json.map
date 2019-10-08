@@ -1,0 +1,11 @@
+{
+	"注意事项":"directory中的路径需要 \\ 而不是 \",
+  "关键词说明":"directory-需要替换的文件目录 | replaceWorld-需替换词 | flag-标识",
+	"Flag说明":"flag-0遍历文件输出文件目录 | flag=1替换关键词replaceWorld为newWorld,newWorld可以为空",
+	
+	
+	"directory":"D:\\test",
+	"replaceWorld":" ",
+	"newWorld":"",
+	"flag":0
+}
